@@ -1,0 +1,9 @@
+C:\Users\deniz.dogan\source\repos\Masstransit-RabbitMq-Poc\Models\bin\Debug\netstandard2.1\Models.deps.json
+C:\Users\deniz.dogan\source\repos\Masstransit-RabbitMq-Poc\Models\bin\Debug\netstandard2.1\Models.dll
+C:\Users\deniz.dogan\source\repos\Masstransit-RabbitMq-Poc\Models\bin\Debug\netstandard2.1\Models.pdb
+C:\Users\deniz.dogan\source\repos\Masstransit-RabbitMq-Poc\Models\obj\Debug\netstandard2.1\Models.csprojAssemblyReference.cache
+C:\Users\deniz.dogan\source\repos\Masstransit-RabbitMq-Poc\Models\obj\Debug\netstandard2.1\Models.AssemblyInfoInputs.cache
+C:\Users\deniz.dogan\source\repos\Masstransit-RabbitMq-Poc\Models\obj\Debug\netstandard2.1\Models.AssemblyInfo.cs
+C:\Users\deniz.dogan\source\repos\Masstransit-RabbitMq-Poc\Models\obj\Debug\netstandard2.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\deniz.dogan\source\repos\Masstransit-RabbitMq-Poc\Models\obj\Debug\netstandard2.1\Models.dll
+C:\Users\deniz.dogan\source\repos\Masstransit-RabbitMq-Poc\Models\obj\Debug\netstandard2.1\Models.pdb
